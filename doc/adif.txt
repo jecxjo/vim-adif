@@ -1,0 +1,26 @@
+*adif.txt* Amateur Data Interchange Format
+
+     ___       _______   __   _______ 
+    /   \     |       \ |  | |   ____|  Amateur
+   /  ^  \    |  .--.  ||  | |  |__     Data
+  /  /_\  \   |  |  |  ||  | |   __|    Interchange
+ /  _____  \  |  '--'  ||  | |  |       Format
+/__/     \__\ |_______/ \__| \__|     
+
+====================================================================
+CONTENTS                                              *AdifContents*
+
+
+    1. Usage ................ |AdifUsage|
+    2. Mappings ............. |AdifMappings|
+    3. License .............. |AdifLicense|
+    4. Bugs ................. |AdifBugs|
+    5. Contributing ......... |AdifContributing|
+    6. Changelog ............ |AdifChangelog|
+    7. Credits .............. |AdifCredits|
+
+====================================================================
+USAGE                                                    *AdifUsage*
+
+This plugin provides syntax highlightign and some basic functions
+for creating and maintaining Amateur Radio ADIF files.
